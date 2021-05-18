@@ -11,7 +11,7 @@ html {
 }
 
 h1 {
-	font-size: 3rem;
+	font-size: 4rem;
 	color:white;
 }
 
@@ -21,8 +21,8 @@ h1 {
 }
 
 .btn-primary {
-	background-color: #f05f44;
-	border-color: #f05f44;
+	background-color: #eb5034;
+	border-color: #cc432b;
 }
 
 .btn-primary:hover {
@@ -32,7 +32,7 @@ h1 {
 }
 
 .btn_1 {
-	padding: 1rem 2rem;
+	padding: 2rem 2rem;
 }
 
 hr {
